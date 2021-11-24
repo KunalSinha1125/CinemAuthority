@@ -1,5 +1,5 @@
 # CinemAuthority
-CinemAuthority is a chatbot that gives you movie recommendations!
+A chatbot that gives you movie recommendations! Feel free to talk to CinemAuthority about some of the movies you've watched recently and what you thought of them.
 
 There are currently four steps I am working on:
 1. Designing the recommendation system. (I will be modeling it off of YouTube's Deep Learning algorithm as described here: https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p191-covington.pdf)
